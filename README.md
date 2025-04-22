@@ -77,4 +77,4 @@ Password: pass123
 Role: teacher
 
 License
-This project was developed for academic and educational purposes under the supervision of the Department of Computer Science.
+This project was developed for academic and educational purposes
